@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kostas, a civil engineer turned self-taught data analyst  
+My name is Kostas, a civil engineer from Greece 🇬🇷 turned self-taught data analyst in Czech Republic 🇨🇿
 
 🔭 I'm currently working as a data analyst in the insurance industry and will soon transition to software engineer in a tech company 
 
@@ -12,6 +12,6 @@ My name is Kostas, a civil engineer turned self-taught data analyst
 
 📫 You can reach me at my Linkedin profile: https://www.linkedin.com/in/kosmidkc/
 
-Outside of work, I like hiking, watching movies, reading books, and finding new restaurants
+Outside of work, I like hiking 🥾:, watching movies 🎥:, reading books 📚:, and finding new restaurants 🍽️
 
 ![5](https://user-images.githubusercontent.com/64977131/135438546-852a403d-ac05-491b-b13a-92cdf07989ef.jpg)
