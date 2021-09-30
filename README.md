@@ -10,4 +10,8 @@ My name is Kostas, a civil engineer turned self-taught data analyst
 
 💬 You can ask me about tips on how to get into data analytics from an engineering background  
 
-📫 You can reach me at Linkedin https://www.linkedin.com/in/kosmidkc/
+📫 You can reach me at my Linkedin profile: https://www.linkedin.com/in/kosmidkc/
+
+Outside of work, I like hiking, watching movies, reading books, and finding new restaurants
+
+![5](https://user-images.githubusercontent.com/64977131/135438546-852a403d-ac05-491b-b13a-92cdf07989ef.jpg)
