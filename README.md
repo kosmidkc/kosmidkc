@@ -2,7 +2,7 @@
 
 My name is Kostas, a civil engineer from Greece 🇬🇷 turned self-taught data analyst in Czech Republic 🇨🇿
 
-🔭 I'm currently working as a data analyst in the insurance industry and will soon transition to software engineer in a tech company 
+🔭 I'm currently working as a data analyst at Showmax, a streaming company in South Africa 
 
 🌱 At the moment, I am trying to improve my skills on Python and SQL and trying to become familiar with Github  
 
