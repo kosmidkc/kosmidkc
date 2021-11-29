@@ -4,7 +4,7 @@ My name is Kostas, a civil engineer from Greece 🇬🇷 turned self-taught data
 
 🔭 I'm currently working as a data analyst at Showmax, a streaming company in South Africa 
 
-🌱 At the moment, I am trying to improve my skills on Python and SQL and trying to become familiar with Github  
+🌱 At the moment, I am trying to improve my skills on Python and SQL  
 
 👯 I am looking to collaborate on data analytics and data science projects. Interested in learning about AI and machine learning 
 
